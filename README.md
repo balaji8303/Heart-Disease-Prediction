@@ -35,6 +35,6 @@ The following models were used for prediction:
 - Decision Tree
 - Random Forest
 
-## How to Run
 
-Clone the repository:
+## Author
+Balaji M
